@@ -1,0 +1,86 @@
+body{
+	margin: 0;
+}
+
+#nav{
+	margin: 0;
+	background-color: rgb(215,216,217);
+	height: 40px;
+}
+
+#o1{
+	margin: 0;
+}
+
+header{
+	margin-top: 0;
+}
+#sauron {
+	width: 15%;
+	border-radius: 50%;
+	margin-top: 6%;
+	margin-left: 6%;
+	position: fixed;
+}
+
+#verso{
+	background-color: rgba(35,36,37,50%);
+	margin-left: 30px;
+	margin-top: 250px;
+	font-size: 28px;
+	width: 800px;
+	font-family: Georgia;
+	color: rgb(144,144,36);
+}
+
+#presentacion{
+	width: 700px;
+	margin-left: 1000px;
+	margin-top: -320px;
+	background-color: rgba(215,216,217,20%);
+}
+
+
+
+
+
+nav 
+{
+	margin-top: -16px;
+	background-color: #6D7A88;
+	height: 54px;
+}
+ul
+{
+	list-style: none;
+}
+
+.nav > li 
+{
+	float: right;
+}
+
+.nav li a
+{
+	background-color: #6D7A88;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 12px;
+	display: block;
+}
+
+.nav li a:hover
+{
+	background-color: #000;
+}
+
+.nav li ul
+{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+}
+.nav li:hover > ul 
+{
+	display:block;
+}
