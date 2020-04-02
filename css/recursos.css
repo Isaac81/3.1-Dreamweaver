@@ -24,7 +24,7 @@
     background-repeat: no-repeat;
     border-radius: 25px;
     padding: 1rem;
-    border: 2px solid rgb(73, 0, 73);
+    border: 2px solid rgb(255,255,255);
 }
 
 .recurso img {
@@ -142,4 +142,7 @@ ul, ol
     #main-header a {
         color: white;
     }
- 
+
+.titulo-recurso{
+    color: white;
+ }
