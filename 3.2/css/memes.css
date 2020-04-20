@@ -1,0 +1,202 @@
+*
+{
+	font-family: Arial Unicode Ms;
+}
+#main-header {
+	background: #000;
+	color: white;
+	height: 80px;
+	
+	width: 100%;
+	left: 0; 
+	top: 0; 
+	position: fixed; 
+}
+
+#main-header {
+	background: #000;
+	color: white;
+	height: 80px;
+}	
+	#main-header a {
+		color: white;
+	}
+ 
+/*
+ * Logo
+ */
+#logo-header {
+	float: left;
+	padding: 0px 0 0 8px;
+	text-decoration: none;
+}
+	#logo-header:hover {
+		color: #0b76a6;
+	}
+	
+	#logo-header .site-name {
+		display: block;
+		font-weight: 700;
+		font-size: 1.2em;
+	}
+	.site-name
+	{
+		padding:left: 20px;
+	}
+	
+	#logo-header .site-desc {
+		display: block;
+		font-weight: 300;
+		font-size: 0.8em;
+		color: #999;
+	}
+
+nav 
+{
+	float: right;
+}
+ul, ol
+{
+	list-style: none;
+}
+
+.nav > li 
+{
+	float:left;
+}
+
+.nav li a
+{
+	background-color: #000;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 12px;
+	display: block;
+}
+
+.nav li a:hover
+{
+	background-color: #6D7A88;
+}
+
+.nav li ul
+{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+}
+.nav li:hover > ul 
+{
+	display:block;
+}
+.nav li ul li 
+{
+	position:relative;
+}
+			
+.nav li ul li ul
+ {
+	right:-140px;
+	top:0px;
+}
+
+#in 
+{
+	font-family: Arial Unicode Ms;
+}
+
+#int
+{
+	margin-right: 200px;
+	margin-left: 200px;
+	font-family: Arial Unicode Ms;
+}
+#m11
+{
+	padding: 100px 0 0 20px;
+	float: left;
+}
+#historia1
+{
+	padding: 150px 100px 150px 500px;
+}
+#Anuncio_1
+{
+	margin-left: 250px;
+	border:double black;
+}
+#Anuncio_2
+{
+	margin-left: 250px;
+	border:double black;
+}
+
+#m22
+{
+	padding: 100px 0 0 20px;
+	float: left;
+}
+#historia2
+{
+	padding: 150px 100px 150px 500px;
+}
+
+article
+{
+	display: inline-block;
+}
+#m33
+{
+	padding: 100px 0 0 20px;
+	float: left;
+}
+#historia3
+{
+	padding: 150px 100px 150px 500px;
+}
+#m44
+{
+	padding: 100px 0 0 20px;
+	float: left;
+}
+#historia4
+{
+	padding: 150px 100px 150px 500px;
+}
+#m55
+{
+	padding: 100px 0 0 20px;
+	float: left;
+}
+#historia5
+{
+	padding: 150px 100px 150px 500px;
+}
+
+#footer
+{
+    display: inline-block;
+    column-count: 2;
+    background-color: #000;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-family:Arial, Helvetica, serif;
+    padding: 8px 0 0 0;
+    position: absolute;
+    left:0;
+}
+
+#footer a{
+    color: white;
+    text-decoration: none;
+}
+#contactos{
+    color: white;
+}
+
+#bibliografia{
+    color: white;
+}
+

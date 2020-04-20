@@ -1,0 +1,40 @@
+nav 
+{
+	margin-top: -16px;
+	background-color: #6D7A88;
+	height: 54px;
+}
+ul
+{
+	list-style: none;
+}
+
+.nav > li 
+{
+	float: right;
+}
+
+.nav li a
+{
+	background-color: #6D7A88;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 12px;
+	display: block;
+}
+
+.nav li a:hover
+{
+	background-color: #000;
+}
+
+.nav li ul
+{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+}
+.nav li:hover > ul 
+{
+	display:block;
+}

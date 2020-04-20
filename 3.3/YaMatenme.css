@@ -1,0 +1,234 @@
+*
+{
+	font-family: Gill Sans MT;
+}
+#int
+{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#main-header {
+	background: white;
+	color: white;
+	height: 70px;
+	
+	width: 100%;
+	left: 0; 
+	top: 0; 
+	position: fixed; 
+}
+
+.logos{
+	float: right;
+	margin-right: 50px;
+}
+
+	#main-header a {
+		color: white;
+	}
+
+.bordes{
+	border-style: solid;
+	border-color: solid rgb(21,237,137);
+}
+
+.maestro
+{
+	width: 750px;
+	height: 700px;
+	margin-left: 284px;
+	margin-top: 50px;
+	display: inline-flex;
+}
+
+.estudiante{
+	width: 394px;
+	height: 662px;
+	border: 0px, 2px, 2px, 0px;
+	border-right-color: rgb(21,237,137);
+	margin-top: 50px;
+}
+
+#nomover{
+	width: 394px;
+	height: 237px;
+	margin-top: -48px;
+	border-right: 2px solid rgb(21,237,137);
+	border-bottom: 2px solid rgb(21,237,137);
+}
+
+.esclavo{
+	color: white;
+	margin-top:195px;
+	width: 103px;
+	height: 23px;
+	background-color: rgb(21,237,137);
+	text-align: center;
+}
+
+.horario{
+	color: white;
+	font-size:16px;
+	margin-left: 12px;
+	margin-top: -5px;
+}
+
+.dia{
+	font-size: 39px;
+	color: rgb(21,237,137);
+	margin-left: 10px;
+	margin-top: -27px;
+}
+
+.descrip{
+	margin-top: -35px;
+	color: white;
+	font-size:20px;
+	margin-left: 15px;
+}
+
+#desc{
+	background-color: rgb(21,237,137);
+	color: white;
+	font-size: 14px;
+	width: 125px;
+	height: 23px;
+	text-align: center;
+	margin-left: 9px;
+	margin-top:-10px;
+}
+
+.viñetas{
+	color: white;
+	font-size: 13px;
+	height: 23px;
+	margin-left: 13px;
+	margin-top:-11px;
+}
+
+#ajuste1{
+margin-top: -17px;
+}
+
+#nomoverx2{
+	width: 394px;
+	height: 191px;
+	margin-top: 0px;
+	border-right: 2px solid rgb(21,237,137);
+}
+
+#nomoverx2:hover{
+background:linear-gradient(rgba(74,190,136,.85), rgba(74,190,136,.85)), url("imag/Luis2.png");
+background-size: cover;
+}
+
+#nomoverx2:hover > .dia2 {
+}
+
+#pequeño{
+color: white;
+	width: 394px;
+	height: 23px;
+	margin-top: -50px;
+	border-bottom: 2px solid rgb(21,237,137);
+}
+
+#enano{
+	color: white;
+	background-color:rgb(21,237,137);
+	text-align: center;
+	width: 91px;
+	height: 23px;
+	margin-left: 2px;
+	margin-top: 24px;
+}
+
+.nomoverx3{
+	width: 394px;
+	height: 190px;
+	margin-top: 0px;
+	border-bottom: 2px solid rgb(21,237,137);
+}
+
+.nomoverx3:hover{
+background:linear-gradient(rgba(74,190,136,.85), rgba(74,190,136,.85)), url("imag/jose1.png");
+background-size: cover;
+}
+
+.nomoverx3:hover > .dia2 {
+color: white;
+}
+
+.nomoverx4{
+	width: 394px;
+	height: 200px;
+	margin-top: 0px;
+	border-left: 2px solid rgb(21,237,137);
+}
+.nomoverx4:hover{
+background:linear-gradient(rgba(74,190,136,.85), rgba(74,190,136,.85)), url("imag/jose2.png");
+background-size: cover;
+}
+
+.nomoverx6{
+	width: 394px;
+	height: 190px;
+	margin-top: 0px;
+	border-bottom: 2px solid rgb(21,237,137);
+}
+
+.nomoverx6:hover{
+background:linear-gradient(rgba(74,190,136,.85), rgba(74,190,136,.85)), url("imag/Luis.png");
+background-size: cover;
+}
+
+.nomoverx6:hover > .dia2 {
+color: white;
+}
+
+.nomoverx4:hover > .dia2 {
+color: white;
+}
+
+.horario2{
+	color: white;
+	font-size:16px;
+	margin-left: 18px;
+	margin-top: 0px;
+}
+
+.dia2{
+	font-size: 39px;
+	color: rgb(21,237,137);
+	margin-left: 10px;
+	margin-top: -29px;
+}
+
+.desc2{
+	color: white;
+	font-size: 13px;
+	width: 125px;
+	height: 23px;
+	margin-left: 17px;
+	margin-top:-4px;
+}
+.viñetas2{
+	color: white;
+	font-size: 13px;
+	height: 23px;
+	margin-left: 17px;
+	margin-top:-16px;
+}
+
+.descrip2{
+	margin-top: -35px;
+	color: white;
+	font-size:20px;
+	margin-left: 18px;
+}
+.descrip3{
+	margin-top: -30px;
+	color: white;
+	font-size:20px;
+	margin-left: 18px;
+}
