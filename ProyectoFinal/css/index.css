@@ -1,0 +1,38 @@
+*{
+	font-family: Arial;
+}
+
+#im{
+	background-image: url(hollow.png);
+}
+
+#title{
+	padding-left: 1em;
+	padding-right: 1em;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+.inicio{
+	font-size: 20px;
+	padding-left: 3%;
+	padding-right: 40%;
+	color: white;
+	justify-content: justify;
+}
+
+#subu{
+	padding-left: 3%;
+	font-size: 28px;
+	color: white;
+
+}
+
+.subtemas{
+	padding-top: 3%;
+}
+
+a{
+	color: #eeeeee;
+}
